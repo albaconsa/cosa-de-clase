@@ -1,101 +1,32 @@
-N.º,Película,Distribuidora (s),Taquilla (Estados Unidos),Taquilla (fuera de EE UU ),Recaudación mundial,Presupuesto,Año de estreno,Director (es)
-0,1,Avatar,20th Century Fox,"$785 221 649 (26,9%)","$2 138 484 377 (73,1%)",$2 923 706 026,$237 000 000,2009,James Cameron
-1,2,Avengers: Endgame,Walt Disney Studios Motion Pictures,"$858 373 000 (30,7 %)","$1 941 066 100 (69,3 %)",$2 799 439 100,$356 000 000,2019,Anthony y Joe Russo
-2,3,Avatar: The Way of Water,Walt Disney Studios Motion Pictures,"$678 465 888 (29,4%)","$1 625 718 655 (70,6%)",$2 304 184 543,$350 000 000-460 000 000,2022,James Cameron
-3,4,Titanic,20th Century Fox / Paramount Pictures,"$674 292 608 (29,9%)","$1 581 800 034 (70,1%)",$2 256 092 642,$200 000 000,1997,James Cameron
-4,5,Star Wars: Episodio VII - El despertar de la Fuerza,Walt Disney Studios Motion Pictures,"$936 662 225 (45,2 %)","$1 134 647 993 (54,8 %)",$2 071 310 218,$245 000 000,2015,J. J. Abrams
-5,6,Avengers: Infinity War,Walt Disney Studios Motion Pictures,"$678 815 482 (33,1 %)","$1 373 599 557 (66,9 %)",$2 052 415 039,$356 000 000,2018,Anthony y Joe Russo
-6,7,Spider-Man: No Way Home,Sony Pictures Releasing,"$814 115 070 (42,4%)","$1 107 732 041 (57,6%)",$1 921 847 111,$200 000 000,2021,Jon Watts
-7,8,Jurassic World,Universal Pictures,"$653 406 625 (39,1 %)","$1 018 130 819 (60,9 %)",$1 671 537 444,$150 000 000,2015,Colin Trevorrow
-8,9,El rey león,Walt Disney Studios Motion Pictures,"$543 638 043 (32,7 %)","$1 119 437 358 (67,3 %)",$1 663 075 401,$260 000 000,2019,Jon Favreau
-9,10,The Avengers,Walt Disney Studios Motion Pictures,$623 357 910 (41 %),$897 180 626 (59 %),$1 520 538 536,$220 000 000,2012,Joss Whedon
-10,11,Fast and Furious 7,Universal Pictures,"$353 007 020 (23,3 %)","$1 162 334 379 (76,7 %)",$1 515 341 399,$190 000 000,2015,James Wan
-11,12,Top Gun: Maverick,Paramount Pictures,"$718 732 821 (48,3%)","$770 000 000 (51,7%)",$1 488 732 821,$170 000 000,2022,Joseph Kosinski
-12,13,Frozen II,Walt Disney Studios Motion Pictures,"$477 373 578 (32,8 %)","$976 309 898 (67,2 %)",$1 453 683 476,$150 000 000,2019,"Chris Buck, Jennifer Lee"
-13,14,Avengers: Age of Ultron,Walt Disney Studios Motion Pictures,"$459 005 868 (32,7 %)","$946 012 180 (67,3 %)",$1 405 018 048,$250 000 000,2015,Joss Whedon
-14,15,Black Panther,Walt Disney Studios Motion Pictures,"$700 426 566 (51,9 %)","$649 499 517 (48,1 %)",$1 349 926 083,$200 000 000,2018,Ryan Coogler
-15,16,Harry Potter y las reliquias de la muerte: parte 2,Warner Bros. Pictures,"$381 447 587 (28,4 %)","$960 912 354 (71,6 %)",$1 342 359 942,$250 000 000,2011,David Yates
-16,17,Star Wars: Episodio VIII - Los últimos Jedi,Walt Disney Studios Motion Pictures,"$620 181 382 (46,5 %)","$714 226 324 (53,5 %)",$1 334 407 706,$317 000 000,2017,Rian Johnson
-17,18,Jurassic World: El reino caído,Universal Pictures,"$417 719 760 (31,9 %)","$892 746 536 (68,1 %)",$1 310 466 296,$170 000 000,2018,J A Bayona
-18,19,Frozen,Walt Disney Studios Motion Pictures,"$400 953 009 (31,2 %)","$883 587 509 (68,8 %)",$1 284 540 518,$150 000 000,2013,"Chris Buck, Jennifer Lee"
-19,20,La bella y la bestia,Walt Disney Studios Motion Pictures,"$504 481 165 (39,8 %)","$761 634 799 (60,2 %)",$1 266 115 964,$160 000 000,2017,Bill Condon
-20,21,Los Increíbles 2,Walt Disney Studios Motion Pictures,$608 581 744 (49 %),$634 643 923 (51 %),$1 243 225 667,$200 000 000,2018,Brad Bird
-21,22,The Fate of the Furious,Universal Pictures,"$226,008,385 (18,3 %)","$1 009 996 733 (81,7 %)",$1 236 005 118,$250 000 000,2017,F. Gary Gray
-22,23,Iron Man 3,Walt Disney Studios Motion Pictures,"$409 013 994 (33,6 %)","$806 563 211 (66,4 %)",$1 215 577 205,$200 000 000,2013,Shane Black
-23,24,Minions,Universal Pictures,$336 045 770 (29 %),$823 398 892 (71 %),$1 159 444 662,$74 000 000,2015,Pierre Coffin
-24,25,Capitán América: Civil War,Walt Disney Studios Motion Pictures,"$408 084 349 (35,3 %)","$746 962 067 (64,7 %)",$1 155 046 416,$250 000 000,2016,Anthony y Joe Russo
-25,26,Aquaman,Warner Bros. Pictures,"$335 104 314 (29,2 %)","$813 424 079 (70,8 %)",$1 148 528 393,$160 000 000,2018,James Wan
-26,27,El Señor de los Anillos: el retorno del Rey,New Line Cinema,"$378,251,207 (33 %)",$768 206 541 (67 %),$1 146 457 748,$94 000 000,2003,Peter Jackson
-27,28,Skyfall,Sony Pictures ReleasingUnited Artists Releasing,"$304 360 277 (27,6 %)","$838 111 018 (73,4 %)",$1 142 471 295,$200 000 000,2012,Sam Mendes
-28,29,Spider-Man: Far From Home,Sony Pictures Releasing,"$390 532 085 (34,5%)","$741 395 911 (65,5%)",$1 131 927 996,$160 000 000,2019,Jon Watts
-29,30,Capitana Marvel,Walt Disney Studios Motion Pictures,"$426 829 839 (37,7 %)","$704 586 607 (62,3 %)",$1 131 416 446,$152 000 000,2019,"Anna Boden, Ryan Fleck"
-30,31,Transformers: el lado oscuro de la luna,Paramount Pictures,"$352 390 543 (31,4 %)","$771 403 536 (68,6 %)",$1 123 794 079,$195 000 000,2011,Michael Bay
-31,32,Jurassic Park,Universal Pictures,$404 214 720 (36.4%),$705 587 601 (63.6%),$1 109 802 321,$63 000 000,1993,Steven Spielberg
-32,33,Transformers: la era de la extinción,Paramount Pictures,"$245 439 076 (22,2 %)","$858 614 996 (77,8 %)",$1 104 054 072,$210 000 000,2014,Michael Bay
-33,34,The Dark Knight Rises,Warner Bros. Pictures,"$448 149 584 (41,5 %)","$633 020 241 (58,5 %)",$1 081 169 825,$230 000 000,2012,Christopher Nolan
-34,35,Star Wars: Episodio IX - El ascenso de Skywalker,Walt Disney Studios Motion Pictures,"$515 202 542 (47,8 %)","$561 819 830 (52,2 %)",$1 077 022 372,$275 000 000,2019,J. J. Abrams
-35,36,Joker,Warner Bros. Pictures,"$335 477 657 (31,2 %)","$738,980,625 (68,8 %)",$1 074 458 282,$55 000 000,2019,Todd Phillips
-36,37,Toy Story 4,Walt Disney Studios Motion Pictures,"$434 038 008 (40,4 %)","$639 803 386 (59,6 %)",$1 073 841 394,$200 000 000,2019,Josh Cooley
-37,38,Toy Story 3,Walt Disney Studios Motion Pictures,"$415 004 880 (38,9 %)","$652 311 221 (61,1 %)",$1 067 316 101,$200 000 000,2010,Lee Unkrich
-38,39,Pirates of the Caribbean: Dead Man's Chest,Walt Disney Studios Motion Pictures,"$423 315 812 (39,7 %)","$642 863 935 (60,3 %)",$1 066 179 747,$225 000 000,2006,Gore Verbinski
-39,40,Rogue One: una historia de Star Wars,Walt Disney Studios Motion Pictures,"$533 539 991 (50,4 %)","$525 142 151 (49,6 %)",$1 058 682 142,$265 000 000,2016,Gareth Edwards
-40,41,Aladdín,Walt Disney Studios Motion Pictures,"$355 559 216 (33,7 %)","$698 744 784 (66,3 %)",$1 054 304 000,$183 000 000,2019,Guy Ritchie
-41,42,Pirates of the Caribbean: On Stranger Tides,Walt Disney Studios Motion Pictures,$241 071 802 (23 %),$805 649 464 (77 %),$1 046 721 266,$250 000 000,2011,Rob Marshall
-42,43,Despicable Me 3,Universal Pictures,"$264 624 300 (25,6 %)","$770 175 831 (74,4 %)",$1 034 800 131,$80 000 000,2017,"Pierre Coffin, Kyle Balda, Eric Guillon"
-43,44,Buscando a Dory,Walt Disney Studios Motion Pictures,"$486 295 561 (47,2 %)","$542 971 428 (52,8 %)",$1 029 266 989,$200 000 000,2016,"Andrew Stanton, Angus McLane"
-44,45,Star Wars: Episodio I - La amenaza fantasma,20th Century Fox,"$474 544 677 (46,2 %)","$552 538 030 (53,8 %)",$1 027 082 707,$115 000 000,1999,George Lucas
-45,46,Zootopia,Walt Disney Studios Motion Pictures,"$341 268 248 (33,3 %)","$684 253 441 (66,7 %)",$1 025 521 689,$150 000 000,2016,"Byron Howard, Rich Moore"
-46,47,Alicia en el país de las maravillas,Walt Disney Studios Motion Pictures,"$334 191 110 (33,6 %)","$691 277 106 (67,4 %)",$1 025 468 216,$200 000 000,2010,Tim Burton
-47,48,Harry Potter y la piedra filosofal,Warner Bros. Pictures,"$318 886 962 (31,1%)","$704 955 975 (68,9%)",$1 023 842 938,$125 000 000,2001,Chris Columbus
-48,49,El hobbit: un viaje inesperado,Warner Bros. Pictures,"$303 030 651 (29,8 %)","$714 000 000 (70,2 %)",$1 017 030 651,$315 000 000,2012,Peter Jackson
-49,50,The Dark Knight,Warner Bros. Pictures,"$534 987 076 (53,2%)","$471 247 091 (46,8%)",$1 006 234 167,$185 000 000,2008,Christopher Nolan
-50,51,Jurassic World: Dominion,Universal Pictures,"$376 851 080 (37,6%)","$625 127 000 (62,4%)",$1 001 978 080,$165 000 000,2022,Colin Trevorrow
-51,52,Jumanji: Welcome to the Jungle,Sony Pictures Releasing,"$404 540 171 (40,6%)","$590 798 946 (59,4%)",$995 339 117,$90 000 000,2017,Jake Kasdan
-52,53,Harry Potter y las reliquias de la muerte: parte 1,Warner Bros. Pictures,"$296 374 621 (30,3 %)","$680 695 761 (69,7 %)",$977 070 383,$250 000 000,2010,David Yates
-53,54,Despicable Me 2,Universal Pictures,"$368 065 385 (37,9 %)","$602 700 620 (62,1 %)",$970 766 005,$76 000 000,2013,Pierre Coffin
-54,55,El rey león,Walt Disney Studios Motion Pictures,"$422 783 777 (43,7 %)","$545 728 028 (56,3 %)",$968 511 805,$45 000 000,1994,Rob Minkoff
-55,56,El libro de la selva,Walt Disney Studios Motion Pictures,"$364,001,123 (37,6%)","$603,723,652 (62,4%)",$967 724 775,$175 000 000,2016,Jon Favreau
-56,57,El hobbit: la batalla de los Cinco Ejércitos,Warner Bros. Pictures,"$255 138 261 (26,5%)","$707 063 077 (73,5%)",$962 201 338,$250 000 000,2014,Peter Jackson
-57,58,Piratas del Caribe: en el fin del mundo,Walt Disney Studios Motion Pictures,"$309 420 425 (32,2%)","$652 270 784 (67,8%)",$961 691 209,$310 000 000,2007,Gore Verbinski
-58,59,El hobbit: la desolación de Smaug,Warner Bros. Pictures,"$258 387 334 (26,9%)","$700 640 658 (73,1%)",$959 027 992,$225 000 000,2013,Peter Jackson
-59,60,Doctor Strange en el Multiverso de la Locura,Walt Disney Studios Motion Pictures,$411 331 607 (43%),$544 444 197 (57%),$955 775 804,$200 000 000,2022,Sam Raimi
-60,61,El Señor de los Anillos: las dos torres,New Line Cinema,"$342 952 511 (36,2%)","$604 991 759 (63,8%)",$947 944 270,$94 000 000,2002,Peter Jackson
-61,62,Harry Potter y la Orden del Fénix,Warner Bros. Pictures,$292 382 727 (31%),$649 895 317 (69%),$942 278 045,$150 000 000,2007,David Yates
-62,63,Buscando a Nemo,Walt Disney Studios Motion Pictures,"$380 843 261 (40,4%)","$560 794 699 (59,6%)",$941 637 960,$94 000 000,2003,Andrew Stanton/ Lee Unkrich
-63,64,Minions: The Rise of Gru,Universal Pictures,"$369 695 210 (39,3%)","$569 933 000 (60,7%)",$939 628 210,$80 000 000,2022,Pierre Coffin
-64,65,Harry Potter y el misterio del Príncipe,Warner Bros. Pictures,"$302 334 374 (32,4%)","$632 185 012 (67,6%)",$934 519 387,$250 000 000,2009,David Yates
-65,66,Shrek 2,DreamWorks Pictures,"$441 226 247 (47,5%)","$487 534 523 (52,5%)",$928 760 770,$150 000 000,2004,Andrew Adamson/ Kelly Asbury/ Conrad Vernon
-66,67,Harry Potter y la cámara secreta,Warner Bros. Pictures,"$262 641 637 (28,4%)","$663 026 742 (71,6%)",$925 668 380,$100 000 000,2002,Chris Columbus
-67,68,Bohemian Rhapsody,20th Century Fox,"$216 668 042 (23,8%)","$694 141 269 (76,2%)",$910 809 311,$52 000 000,2018,Bryan Singer/ Dexter Fletcher
-68,69,The Battle at Lake Changjin,August First Film Studio,$342 411 (--%),$902 206 065 (--%),$902 548 476,$200 000 000,2021,Chen Kaige/ Tsui Hark
-69,70,El Señor de los Anillos: la Comunidad del Anillo,New Line Cinema,"$316 115 420 (35,2%)","$582 089 000 (64,8%)",$898 204 420,$93 000 000,2001,Peter Jackson
-70,71,Harry Potter y el cáliz de fuego,Warner Bros. Pictures,"$290 469 928 (32,4%)","$606 345 177 (67,6%)",$896 815 106,$150 000 000,2005,Mike Newell
-71,72,Spider-Man 3,Sony Pictures Releasing,"$336 530 303 (37,6%)","$558 453 070 (62,4%)",$894 983 373,$258 000 000,2007,Sam Raimi
-72,73,La vida secreta de tus mascotas,Universal Pictures,"$368 384 330 (41,2%)","$525 944 139 (58,8%)",$894 328 469,$75 000 000,2016,Chris Renaud
-73,74,Ice Age 3: Dawn of the Dinosaurs,20th Century Fox,"$196 573 705 (22,2%)","$690 113 112 (77,8%)",$886 686 817,$90 000 000,2009,Carlos Saldhana/ Mike Thurmeier
-74,75,Spectre,Sony Pictures Releasing,"$200 074 609 (22,7%)","$680 630 703 (77,3%)",$880 705 312,$245 000 000,2015,Sam Mendes
-75,76,Spider-Man: Homecoming,Sony Pictures Releasing,$334 201 140 (38%),$545 965 784 (62%),$880 166 924,$175 000 000,2017,Jon Watts
-76,77,Ice Age 4: Continental Drift,20th Century Fox,"$161 321 843 (18,4%)","$715 922 939 (81,6%)",$877 244 782,$95 000 000,2012,Steve Martino/ Mike Thurmeier
-77,78,Batman v Superman: Dawn of Justice,Warner Bros. Pictures,"$330 360 194 (37,8%)","$543 277 334 (62,2%)",$873 637 528,$250 000 000,2016,Zack Snyder
-78,79,Wolf Warrior 2,The H Collective,"$2 721 100 (0,3%)","$867 604 339 (99,7%)",$870 325 439,$30 100 000,2017,Wu Jing
-79,80,Star Wars: Episodio lll - La venganza de los Sith,20th Century Fox,"$380 270 577 (43,8%)","$488 119 983 (56,2%)",$868 390 560,$113 000 000,2005,George Lucas
-80,81,Los juegos del hambre: en llamas,Lionsgate,"$424 668 047 (49,1%)","$440 343 699 (50,9%)",$865 011 746,$130 000 000,2013,Francis Lawrence
-81,82,Guardianes de la Galaxia vol. 2,Walt Disney Studios Motion Pictures,"$389 813 101 (45,1%)","$473 942 950 (54,9%)",$863 756 051,$200 000 000,2017,James Gunn
-82,83,Inside Out,Walt Disney Studios Motion Pictures,"$356 921 711 (41,6%)","$501 926 308 (58,4%)",$858 848 019,$175 000 000,2015,Pete Docter/ Ronnie del Carmen
-83,84,Black Panther: Wakanda Forever,Walt Disney Studios Motion Pictures,$453 829 060 (52.8%),$404 967 608 (47.2%),$858 796 668,$250 000 000,2022,Ryan Coogler
-84,85,Venom,Sony Pictures Releasing,"$213 515 506 (24,9%)","$642 569 645 (75,1%)",$856 085 151,$100 000 000,2018,Ruben Fleischer
-85,86,Thor: Ragnarok,Walt Disney Studios Motion Pictures,"$315 058 289 (36,8%)","$540 243 517 (63,2%)",$855 301 806,$180 000 000,2017,Taika Waititi
-86,87,La saga Crepúsculo: Amanecer Parte 2,Lionsgate,"$292 324 737 (34,4%)","$556 528 645 (65,6%)",$848 853 382,$120 000 000,2012,Bill Condon
-87,88,Inception,Warner Bros. Pictures,$292 587 330 (35%),$544 260 772 (65%),$836 848 102,$160 000 000,2010,Christopher Nolan
-88,89,Transformers: la venganza de los caídos,Paramount Pictures,"$402 111 870 (48,1%)","$434 191 823 (51,9%)",$836 303 693,$200 000 000,2009,Michael Bay
-89,90,Spider-Man,Sony Pictures Releasing,"$407 022 860 (49,3%)","$418 002 176 (50,7%)",$825 025 036,$140 000 000,2002,Sam Raimi
-90,91,Wonder Woman,Warner Bros. Pictures,"$412 845 172 (50,2%)","$410 009 114 (49,8%)",$822 854 286,$149 000 000,2017,Patty Jenkins
-91,92,"Hi, Mom",Beijing Jingxi Culture & Tourism Co,-,$822 009 764 (100%),$822 009 764,$59 000 000,2021,Ling Jia
-92,93,Independence Day,20th Century Fox,"$306 169 268 (37,5%)","$511 231 623 (62,5%)",$817 400 891,$75 000 000,1996,Roland Emmerich
-93,94,Coco,Walt Disney Studios Motion Pictures,"$210 460 015 (25,8%)","$603 877 039 (74,2%)",$814 337 054,$175 000 000,2017,Lee Unkrich/ Adrian Molina
-94,95,Animales fantásticos y dónde encontrarlos,Warner Bros. Pictures,"$234 037 575 (28,7%)","$580 006 426 (71,3%)",$814 044 001,$180 000 000,2016,David Yates
-95,96,Shrek The Third,Paramount Pictures,"$322 719 944 (39,7%)","$490 647 436 (60,3%)",$813 367 380,$160 000 000,2007,Chris Miller
-96,97,Jumanji: The Next Level,Sony Pictures Releasing,$320 314 960 (40%),$481 378 969 (60%),$801 693 929,$125 000 000,2019,Jake Kasdan
-97,98,Harry Potter y el prisionero de Azkaban,Warner Bros. Pictures,"$250 105 651 (31,4%)","$547 555 114 (68,6%)",$797 660 766,$130 000 000,2004,Alfonso Cuarón
-98,99,Piratas del Caribe: La venganza de Salazar,Walt Disney Studios Motion Pictures,"$172 558 876 (21,7%)","$623 363 422 (78,3%)",$795 922 298,$230 000 000,2017,Joachim Ronning/ Espen Sandberg
-99,100,"E.T., el extraterrestre",Universal Pictures,"$437 141 279 (55,1%)","$304 203 888 (38,4%)",$792 910 554,$10 500 000,1982,Steven Spielberg
+N.º,Película,Distribuidora,Taquilla (Estados Unidos),Taquilla (fuera de EE UU ),Recaudación mundial,Presupuesto,Año de estreno,Director 
+0,1,Avatar,20th Century Fox,"$785 221 649 ","$2 138 484 377 ",$2 923 706 026,$237 000 000,2009,James Cameron
+1,2,Avengers: Endgame,Walt Disney Studios Motion Pictures,"$858 373 000 ","$1 941 066 100 ",$2 799 439 100,$356 000 000,2019,Anthony y Joe Russo
+2,3,Avatar: The Way of Water,Walt Disney Studios Motion Pictures,"$678 465 888 ","$1 625 718 655 ",$2 304 184 543,$350 000 000-460 000 000,2022,James Cameron
+3,4,Titanic,20th Century Fox / Paramount Pictures,"$674 292 608 ","$1 581 800 034 ",$2 256 092 642,$200 000 000,1997,James Cameron
+4,5,Star Wars: Episodio VII - El despertar de la Fuerza,Walt Disney Studios Motion Pictures,"$936 662 225 ","$1 134 647 993 ",$2 071 310 218,$245 000 000,2015,J. J. Abrams
+5,6,Avengers: Infinity War,Walt Disney Studios Motion Pictures,"$678 815 482 ","$1 373 599 557 ",$2 052 415 039,$356 000 000,2018,Anthony y Joe Russo
+6,7,Spider-Man: No Way Home,Sony Pictures Releasing,"$814 115 070 ","$1 107 732 041 ",$1 921 847 111,$200 000 000,2021,Jon Watts
+7,8,Jurassic World,Universal Pictures,"$653 406 625 ","$1 018 130 819 ",$1 671 537 444,$150 000 000,2015,Colin Trevorrow
+8,9,El rey león,Walt Disney Studios Motion Pictures,"$543 638 043 ","$1 119 437 358 ",$1 663 075 401,$260 000 000,2019,Jon Favreau
+9,10,The Avengers,Walt Disney Studios Motion Pictures,$623 357 910 ,$897 180 626 ,$1 520 538 536,$220 000 000,2012,Joss Whedon
+10,11,Fast and Furious 7,Universal Pictures,"$353 007 020 ","$1 162 334 379 ",$1 515 341 399,$190 000 000,2015,James Wan
+11,12,Top Gun: Maverick,Paramount Pictures,"$718 732 821 ","$770 000 000 ",$1 488 732 821,$170 000 000,2022,Joseph Kosinski
+12,13,Frozen II,Walt Disney Studios Motion Pictures,"$477 373 578 ","$976 309 898 ",$1 453 683 476,$150 000 000,2019,"Chris Buck, Jennifer Lee"
+13,14,Avengers: Age of Ultron,Walt Disney Studios Motion Pictures,"$459 005 868 ","$946 012 180 ",$1 405 018 048,$250 000 000,2015,Joss Whedon
+14,15,Black Panther,Walt Disney Studios Motion Pictures,"$700 426 566 ","$649 499 517 ",$1 349 926 083,$200 000 000,2018,Ryan Coogler
+15,16,Harry Potter y las reliquias de la muerte: parte 2,Warner Bros. Pictures,"$381 447 587 ","$960 912 354 ",$1 342 359 942,$250 000 000,2011,David Yates
+16,17,Star Wars: Episodio VIII - Los últimos Jedi,Walt Disney Studios Motion Pictures,"$620 181 382 ","$714 226 324 ",$1 334 407 706,$317 000 000,2017,Rian Johnson
+17,18,Jurassic World: El reino caído,Universal Pictures,"$417 719 760 ","$892 746 536 ",$1 310 466 296,$170 000 000,2018,J A Bayona
+18,19,Frozen,Walt Disney Studios Motion Pictures,"$400 953 009 ","$883 587 509 ",$1 284 540 518,$150 000 000,2013,"Chris Buck, Jennifer Lee"
+19,20,La bella y la bestia,Walt Disney Studios Motion Pictures,"$504 481 165 ","$761 634 799 ",$1 266 115 964,$160 000 000,2017,Bill Condon
+20,21,Los Increíbles 2,Walt Disney Studios Motion Pictures,$608 581 744 ,$634 643 923 ,$1 243 225 667,$200 000 000,2018,Brad Bird
+21,22,The Fate of the Furious,Universal Pictures,"$226,008,385 ","$1 009 996 733 ",$1 236 005 118,$250 000 000,2017,F. Gary Gray
+22,23,Iron Man 3,Walt Disney Studios Motion Pictures,"$409 013 994 ","$806 563 211",$1 215 577 205,$200 000 000,2013,Shane Black
+23,24,Minions,Universal Pictures,$336 045 770 ,$823 398 892 ,$1 159 444 662,$74 000 000,2015,Pierre Coffin
+24,25,Capitán América: Civil War,Walt Disney Studios Motion Pictures,"$408 084 349","$746 962 067 ",$1 155 046 416,$250 000 000,2016,Anthony y Joe Russo
+25,26,Aquaman,Warner Bros. Pictures,"$335 104 314 ","$813 424 079 ",$1 148 528 393,$160 000 000,2018,James Wan
+26,27,El Señor de los Anillos: el retorno del Rey,New Line Cinema,"$378,251,207 ",$768 206 541 ,$1 146 457 748,$94 000 000,2003,Peter Jackson
+27,28,Skyfall,Sony Pictures ReleasingUnited Artists Releasing,"$304 360 277 ","$838 111 018 ",$1 142 471 295,$200 000 000,2012,Sam Mendes
+28,29,Spider-Man: Far From Home,Sony Pictures Releasing,"$390 532 085 ","$741 395 911 ",$1 131 927 996,$160 000 000,2019,Jon Watts
+29,30,Capitana Marvel,Walt Disney Studios Motion Pictures,"$426 829 839 ","$704 586 607 ",$1 131 416 446,$152 000 000,2019,"Anna Boden, Ryan Fleck"
+30,31,Transformers: el lado oscuro de la luna,Paramount Pictures,"$352 390 543 ","$771 403 536 ",$1 123 794 079,$195 000 000,2011,Michael Bay
